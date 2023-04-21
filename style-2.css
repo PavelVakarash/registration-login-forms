@@ -1,0 +1,36 @@
+body {
+    background: url('img/3d-render-of-a-mountain-range-reflected-in-ocean.jpg') no-repeat center center fixed;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+  
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .button {
+    background-color: #4CAF50;
+    text-decoration: none;
+    border-radius: 15px;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    display: block;
+    font-size: 16px;
+    margin: 15px;
+    cursor: pointer;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  
+  .button:hover {
+    background-color: #3e8e41;
+    text-decoration: none;
+  }
+
+
+
+ 
+ 
